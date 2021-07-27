@@ -8,7 +8,7 @@ description: >-
 
 ## Terms
 
-By using Tree Farmer you automatically agree to comply with the following terms and will accept punishment given for the broken term\(s\). Not reading the terms and breaking a term is an unacceptable excuse.
+By using Tree Farmer you automatically agree to comply with the following terms and will accept punishment given for the broken term\(s\). Not reading the terms and breaking a term is an unacceptable excuse. You also must follow [**Discord's Terms**](https://discord.com/terms) and **BreMea Developments Terms.**
 
 ## Privacy
 

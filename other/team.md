@@ -4,7 +4,7 @@ description: >-
   community.
 ---
 
-# Contact & Support
+# Team & Community
 
 ## BreMea Development
 
@@ -20,7 +20,7 @@ The Tree Farmer community server is the home of the entire game. Join to be rewa
 
 ### [**treefarmer.xyz/discord**](https://treefarmer.xyz/discord)\*\*\*\*
 
-**Member Bonuses:**
+**Member Bonuses**
 
 * 10% log value increase
 * 10% vehicle capacity
@@ -31,9 +31,7 @@ The Tree Farmer community server is the home of the entire game. Join to be rewa
 * 25% log value increase
 * 25% vehicle capacity
 
-## Developers
+## Developers & Contributors
 
-Tree Farmer was mainly developed by Fyrlex\#2740 along with great help from NonStop\#6236, both are team members of [**BreMea Development**](contact.md#bremea-development). Tree Farmer's status can be found here: [**status.treefarmer.xyz**](https://status.treefarmer.xyz/)\*\*\*\*
-
-\*\*\*\*
+The Tree Farmer project was created and led by [**Fyrlex**](https://discord.com/users/292821168833036288). The programming team includes [**NonStop**](https://discord.com/users/480721662149656576) and [**53P**](https://discord.com/users/519674801049042945). Our beautiful artwork is from [**Loro Fashero**](https://discord.com/users/330192521953280000). All of these amazing members are from the [**BreMea Team**](https://bremea.com/).
 

@@ -1,5 +1,21 @@
 # Changelog - July
 
+## July 26
+
+**New**
+
+* Added log count for each tree
+* Added sapling cost for each tree
+* Added storages to documentation
+* Added vehicles to documentation
+* Setup and planning REST API
+
+**Changes**
+
+* Cutters now cut instantly but have an efficiency range that increases as they are upgraded
+* Cutters also have cooldowns depending on how many cutters were used
+* Prices and rates of Tree Farm components adjusted
+
 ## July 20
 
 **New**
