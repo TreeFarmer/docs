@@ -8,11 +8,7 @@ description: >-
 
 ## Commands and Mechanics
 
-Run the `/storage` command to view information about all of your storages. You can buy new storages in the order of the list below with `/buy storage` and upgrade vehicles with `/upgrade storage`. When you cut trees down, the logs you received are automatically put into the least filled storage unit. If a storage unit is filled up the extra logs will go to the next least filled storage unit.
-
-## Limitations
-
-Each user can have up to **two** storages on their farm. If all storage units are filled up, the logs you had cut will be wasted, but logs from giveaways will be added into your storage.
+Run the `/storage` command to view information about all of your storages. You can buy new storages in the order of the list below with `/buy storage` and upgrade vehicles with `/upgrade storage`. When you cut trees down, the logs you received are automatically put into the least filled storage unit. Each user can have up to **two** storages on their farm. If all storage units are filled up, the logs you had cut will be wasted, but logs from giveaways will be added into your storage.
 
 ## Chest
 
@@ -21,22 +17,22 @@ Each user can have up to **two** storages on their farm. If all storage units ar
 
 ## Crate
 
-* **Cost:** $874.5
+* **Cost:** $874
 * **Capacity:** 197 logs
 
 ## Closet
 
-* **Cost:** $4.81K
+* **Cost:** $4.809K
 * **Capacity:** 493 logs
 
 ## Garage
 
-* **Cost:** $26.454K
+* **Cost:** $26.453K
 * **Capacity:** 1.234K logs
 
 ## Cellar
 
-* **Cost:** $145.495K
+* **Cost:** $145.494K
 * **Capacity:** 3.085K logs
 
 ## Hut

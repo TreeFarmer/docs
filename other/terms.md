@@ -12,5 +12,5 @@ By using Tree Farmer you automatically agree to comply with the following terms 
 
 ## Privacy
 
-Tree Farmer stores data to keep your progress saved when using the bot. Data that was created by Tree Farmer is stored along with your Discord ID \(e.g. 772935872646610994\). This data includes almost everything from the **Game Info** tab on the left side of this page. No Discord tags \(e.g. Fyrlex\#2740\), guilds, friends, messages of any kind are stored by Tree Farmer. We oblige ourselves to keeping your data safe in our hands only and will modify it if needed and with notice directly to you. None of your data will ever be shared with outside sources.
+Tree Farmer stores data to keep your progress saved when using the bot. The only data we store from you is your Discord ID \(e.g. 292821168833036288\), not your Discord tag \(e.g. Fyrlex\#2740\). We safely store your Tree Farmer data, such as everything in the **Information** section. We do have a profile/statistic viewer command that allows other registered users \(users who have bought a farm\) that displays your Discord tag, Discord ID, avatar and the rest of the contents from the [**`/profile`**](../info/commands.md#profile) and [**`/stats`**](../info/commands.md#stats) command. You can set your Tree Farmer profile to private at any time with `/hideprofile`. 
 

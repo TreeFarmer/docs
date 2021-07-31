@@ -8,11 +8,7 @@ description: >-
 
 ## Commands and Mechanics
 
-Run the `/cut` command and click confirm to make all available cutters each cut down a tree. You can buy new vehicles with `/buy cutter` and upgrade vehicles with `/upgrade cutter`. Cutter's have an efficiency yield that can be seen below. All cutters are assigned to one tree, so you may get different amounts of logs from each tree.
-
-## Limitations
-
-The cooldown for cutting trees is the average cutter's level cooldown multiplied by each tree cut. As you upgrade your cutter, it's efficiency increases but will have a slightly longer cooldown. Each user can have up to **eight** cutters on a farm.
+Run the `/cut` command and click confirm to make all available cutters each cut down a tree. You can buy new vehicles with `/buy cutter` and upgrade vehicles with `/upgrade cutter`. Cutter's have an efficiency yield that can be seen below. All cutters are assigned to one tree, so you may get different amounts of logs from each tree. The cooldown for cutting trees is the average cutter's level cooldown multiplied by each tree cut. As you upgrade your cutter, it's efficiency increases but will have a slightly longer cooldown. Each user can have up to **eight** cutters on a farm.
 
 ## Fist
 
@@ -23,7 +19,7 @@ The cooldown for cutting trees is the average cutter's level cooldown multiplied
 ## Bread Knife
 
 * **Cooldown**: 1m 9s
-* **Cost:** $1.121K
+* **Cost:** $1.12K
 * **Efficiency:** 20% - 30%
 
 ## Hatchet
@@ -41,7 +37,7 @@ The cooldown for cutting trees is the average cutter's level cooldown multiplied
 ## Axe
 
 * **Cooldown**: 1m 44s
-* **Cost:** $102.106K
+* **Cost:** $102.105K
 * **Efficiency:** 50% - 60%
 
 ## Chainsaw

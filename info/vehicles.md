@@ -9,11 +9,7 @@ description: >-
 
 ## Commands and Mechanics
 
-Run the `/deliver` command and click confirm to make all available deliverers deliver as many logs as they can from your storage. You can buy new vehicles in the order of the list below with `/buy vehicle` and upgrade vehicles with `/upgrade vehicle`.
-
-## Limitations
-
-Each user can have up to **six** vehicles on their farm. As you upgrade your deliverer, it's capacity increases but will have a slightly longer cooldown.
+Run the `/deliver` command and click confirm to make all available deliverers deliver as many logs as they can from your storage. You can buy new vehicles in the order of the list below with `/buy vehicle` and upgrade vehicles with `/upgrade vehicle`. Each user can have up to **six** vehicles on their farm. As you upgrade your deliverer, it's capacity increases but will have a slightly longer cooldown.
 
 ## Wagon
 
@@ -36,7 +32,7 @@ Each user can have up to **six** vehicles on their farm. As you upgrade your del
 ## Carriage
 
 * **Cooldown**: 1m 31s
-* **Cost:** $35.448K
+* **Cost:** $35.447K
 * **Capacity:** 686 logs
 
 ## Van

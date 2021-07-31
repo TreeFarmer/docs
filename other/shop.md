@@ -38,7 +38,7 @@ All permanent and one time boosters can be stacked and purchased in bulk for a d
 
 ## One Time Boosters
 
-| Booster | Description | Price \(in game money\) |
+| Booster | Description | Price  |
 | :--- | :--- | :--- |
 | coming soon... | coming soon... | coming soon... |
 | coming soon... | coming soon... | coming soon... |

@@ -1,5 +1,17 @@
 # Changelog - July
 
+## July 31
+
+**New**
+
+* Major improvements to the organization of the source code
+* Knowledge is on hold
+
+**Changes**
+
+* Removed cents/decimals from all prices and values etc.
+* Renamed some things on the backend
+
 ## July 26
 
 **New**
@@ -22,8 +34,11 @@
 
 * Setting up Button Interactions for various commands
 * Tree prices and log values specified \([**Trees**](../info/trees.md)\)
-* Updated parts of the documentation
 * API endpoint created but will not be up until further notice
+
+**Changes**
+
+* Updated parts of the documentation
 
 ## July 17
 
