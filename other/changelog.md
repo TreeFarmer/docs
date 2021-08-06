@@ -1,4 +1,20 @@
-# Changelog - July
+---
+description: A history of all changes made to any part of Tree Farmer.
+---
+
+# Changelog
+
+## August 5
+
+**New**
+
+* API endpoints nearly finished, authentication finished but not public
+* Commands and responses being worked on
+* Structure nearly finished
+
+**Changes**
+
+* Improving startup time by merging some data files and modifying some functions
 
 ## July 31
 

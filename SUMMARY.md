@@ -15,7 +15,7 @@
 
 ## Other
 
-* [Changelog - July](other/changelog.md)
+* [Changelog](other/changelog.md)
 * [Tree Farmer Shop](other/shop.md)
 * [Team & Community](other/team.md)
 * [Terms & Privacy](other/terms.md)
