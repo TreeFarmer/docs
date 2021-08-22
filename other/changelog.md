@@ -12,6 +12,13 @@ description: A history of all changes made to any part of Tree Farmer.
 * Most commands finished and can be used
 * API is live
 
+**Changes**
+
+* Tree Farmer text removed from all messages
+* User avatar's now included in all messages to help show which message belongs to the user
+* Changed some grammar and text in various command descriptions and messages
+* Fixed other small issues that prevented messages from sending
+
 ## August 5
 
 **New**
