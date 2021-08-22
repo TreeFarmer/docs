@@ -33,5 +33,5 @@ The Tree Farmer community server is the home of the entire game. Join to be rewa
 
 ## Developers & Contributors
 
-The Tree Farmer project was created and led by [**Fyrlex**](https://discord.com/users/292821168833036288). The programming team includes [**NonStop**](https://discord.com/users/480721662149656576) and [**53P**](https://discord.com/users/519674801049042945). Our beautiful artwork is from [**Loro Fashero**](https://discord.com/users/330192521953280000). All of these amazing members are from the [**BreMea Team**](https://bremea.com/).
+The Tree Farmer project was created and led by [**Fyrlex**](https://discord.com/users/292821168833036288). The programming team includes [**NonStop**](https://discord.com/users/480721662149656576) and [**53P**](https://discord.com/users/519674801049042945). Our beautiful artwork is from [**Loro Fashero**](https://discord.com/users/330192521953280000) and ****[**Pom**](https://discord.com/users/315124710872449025). All of these amazing members are a part of the [**BreMea Team**](https://bremea.com/).
 

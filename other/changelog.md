@@ -4,6 +4,14 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 22
+
+**New**
+
+* Beta stage is now live, test Tree Farmer in the [**community server**](https://treefarmer.xyz/discord).
+* Most commands finished and can be used
+* API is live
+
 ## August 5
 
 **New**
