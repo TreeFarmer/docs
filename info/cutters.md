@@ -16,7 +16,7 @@ Run the `/cut` command and click confirm to make all available cutters each cut 
 * **Cost:** $249
 * **Efficiency:** 10% - 20%
 
-## Bread Knife
+## Knife
 
 * **Cooldown**: 1m 9s
 * **Cost:** $1.12K
@@ -57,10 +57,4 @@ Run the `/cut` command and click confirm to make all available cutters each cut 
 * **Cooldown**: 2m 39s
 * **Cost:** $9.304M
 * **Efficiency:** 80% - 90%
-
-## Captain America
-
-* **Cooldown**: 3m 3s
-* **Cost:** $41.87M
-* **Efficiency:** 90% - 100%
 

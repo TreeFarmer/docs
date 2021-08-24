@@ -4,6 +4,25 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 23
+
+**New**
+
+* `/bal` command
+* Added an endpoint for future voting webhooks
+
+**Changes**
+
+* The Captain America cutter was removed
+* Bread Knife is now named Knife
+* Table Saw is now named Tablesaw
+* Cargo Bike is now named Bike
+* Golf Cart is now named Cart
+* Improved design of multiple menus
+* Fixed issues with the cache for a user's farm
+* Improved preventing buying more things when at the max
+* Fixed issues with upgrading things
+
 ## August 22
 
 **New**
