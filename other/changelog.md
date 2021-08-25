@@ -4,6 +4,21 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 24
+
+**New**
+
+* Added more guidance to the `/start` menu
+* Added a user endpoint to the API
+
+**Changes**
+
+* Fixed an issue with trying to upgrade a vehicle more than once on one message
+* Improved design of more menus with thumbnails and more
+* Fixed an issue where buying new things would not properly appear on their menus
+* General improvements to the structure and managers of the bot
+* Removed knowledge data except for the command
+
 ## August 23
 
 **New**

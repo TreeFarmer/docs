@@ -14,7 +14,7 @@ Users have a sapling box that is used to plant any tree. Sapling can be bought w
 
 * **Fun Fact**: It is the only juniper to occur south of the equator.
 * **Planting Region:** Africa
-* **Farm Cost:** $10K
+* **Farm Cost:** FREE
 * **Cut Cooldown:** 1m
 * **Log Count:** 119
 * **Log Value:** $6

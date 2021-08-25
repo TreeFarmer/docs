@@ -7,7 +7,7 @@ description: >-
 # Commands
 
 {% hint style="info" %}
-All commands require no permissions in the server you run them in. But most commands are **locked** \(marked with a \*\) and require owning a farm before using them.
+All commands require no permissions in the server you run them in. But most commands are **locked** \(marked **without** a star '\*'\) and require owning a farm before using them.
 {% endhint %}
 
 ## /buy
@@ -18,9 +18,11 @@ All commands require no permissions in the server you run them in. But most comm
 
 ## /deliver
 
-## /help
+## /farm
 
-## /info
+## /help\*
+
+## /info\*
 
 ## /knowledge
 
@@ -28,13 +30,11 @@ All commands require no permissions in the server you run them in. But most comm
 
 ## /plots
 
-## /profile
+## /start\*
 
 ## /stats
 
 ## /storage
-
-## /trees
 
 ## /upgrade
 

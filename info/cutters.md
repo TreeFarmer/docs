@@ -46,7 +46,7 @@ Run the `/cut` command and click confirm to make all available cutters each cut 
 * **Cost:** $459.475K
 * **Efficiency:** 60% - 70%
 
-## Table Saw
+## Tablesaw
 
 * **Cooldown**: 2m 18s
 * **Cost:** $2.068M
