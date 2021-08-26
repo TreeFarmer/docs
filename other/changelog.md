@@ -4,6 +4,15 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 25
+
+**Changes**
+
+* Some error messages are now ephemeral
+* Fixed a menu bug when proving an option in `/buy`
+* Improved managers for cutting, delivering and storing
+* Improved design of some menus
+
 ## August 24
 
 **New**
