@@ -4,6 +4,21 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 28
+
+**New**
+
+* Farms can now be upgraded with `/upgrade farm` or selecting in the drop down menu
+* View interesting information of your tree with `/tree`
+* Sponsor hosting company \([**something.host**](https://something.host/en?fpr=fyrlex68)\) in `/info` 
+
+**Changes**
+
+* Fixed an issue where you could still buy from the shop even if you could not afford
+* Improved multiple menus again to display more information and formatted nicely
+* Improved a lot of the code structure and organized the code
+* Fixed accuracy of messages in buy/upgrade menus
+
 ## August 25
 
 **Changes**
