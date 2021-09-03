@@ -13,7 +13,7 @@ Tree Farmer is currently in **public beta** and cannot be invited to your server
 
 ## Invite
 
-Tree Farmer can be invited to your server using the following link: [**treefarmer.xyz/invite**](https://treefarmer.xyz/invite)\*\*\*\*
+Tree Farmer can be invited to your server using [**treefarmer.xyz/invite**](https://treefarmer.xyz/invite).
 
 ## Permissions
 
@@ -40,14 +40,6 @@ Tree Farmer can be invited to your server using the following link: [**treefarme
         <br />messages for most commands</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Attach Files</b>
-      </td>
-      <td style="text-align:left">
-        <p>Tree Farmer can send images</p>
-        <p>with certain commands</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left"><b>Use External Emojis</b>
       </td>
       <td style="text-align:left">
@@ -64,5 +56,5 @@ To start a tree farm, you must buy a farm using `/start`. You will then be takin
 
 ## Upgrading a Tree Farm
 
-You can check at any time if you can upgrade your farm by typing `/upgrade farm`. Make sure to only press the confirmation button if you want to upgrade. When you upgrade your farm, you lose all of your Knowledge, Trees, Vehicles, Cutters but keep your money, you're given three saplings and one golden tree.
+You can check at any time if you can upgrade your farm by typing `/upgrade farm`. Make sure to only press the confirmation button if you want to upgrade. When you upgrade your farm, you lose all of your Knowledge, Trees, Vehicles, Cutters but keep your money, you're given **two** saplings and one golden tree.
 

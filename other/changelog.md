@@ -4,6 +4,18 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## September 2
+
+**New**
+
+* TypeScript version of Tree Farmer, this helped find many vulnerabilities in performance
+
+**Changes**
+
+* Fixed an issue with being able to upgrade when the user shouldn't be able to
+* Fixed an issue with upgrading farms and the user's tree
+* Golden Trees are now given upon upgrading a farm
+
 ## August 28
 
 **New**
