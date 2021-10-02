@@ -20,5 +20,6 @@
 * [Terms & Privacy](other/terms.md)
 * [Community Server](https://treefarmer.xyz/discord)
 * [GitHub](https://github.com/TreeFarmer)
+* [Home Page](https://treefarmer.xyz)
 * [Status](https://status.treefarmer.xyz)
 

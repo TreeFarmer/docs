@@ -6,7 +6,9 @@ description: >-
 
 # Tree Farmer Shop
 
-The official shop will be accessible at [**shop.treefarmer.xyz**](https://shop.treefarmer.xyz).
+{% hint style="danger" %}
+The Shop is not complete. There is currently no method of buying any product listed on this page.
+{% endhint %}
 
 ## Golden Tree Pass
 

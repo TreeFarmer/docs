@@ -20,6 +20,8 @@ The Tree Farmer community server is the home of the entire game. Join to be rewa
 
 ### [**treefarmer.xyz/discord**](https://treefarmer.xyz/discord)\*\*\*\*
 
+{% embed url="https://treefarmer.xyz/" %}
+
 **Member Bonuses**
 
 * 10% log value increase
@@ -27,9 +29,9 @@ The Tree Farmer community server is the home of the entire game. Join to be rewa
 
 **Server Booster Bonuses**
 
-* Instant 100% of money rewarded \(doubles your money\)
-* 25% log value increase
-* 25% vehicle capacity
+* Instantly rewarded 100% of your current balance \(doubles your money\)
+* 15% log value increase
+* 15% vehicle capacity
 
 ## Developers & Contributors
 

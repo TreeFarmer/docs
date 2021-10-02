@@ -4,6 +4,21 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## October 2
+
+**New**
+
+* Home website: [**treefarmer.xyz**](https://treefarmer.xyz)\*\*\*\*
+* Released a small package that Tree Farmer uses: [**embed-table**](https://www.npmjs.com/package/embed-table)
+* Gifts to reward users `/gift`
+* Remote database \(MariaDB in place of SQLite\)
+
+**Changes**
+
+* Removed `/knowledge`
+* Fixed some formatting in various menus
+* Major improvements across the entire bot
+
 ## September 2
 
 **New**
