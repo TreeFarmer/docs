@@ -262,7 +262,7 @@ Users have a sapling box that is used to plant any tree. Sapling can be bought w
 
 ## Butternut Tree
 
-* **Fun Fact**: The Butternut tree (or white walnut) is the only walnut tree that is native to Canada.
+* **Fun Fact**: The Butternut tree \(or white walnut\) is the only walnut tree that is native to Canada.
 * **Planting Region:** North America
 * **Farm Cost:** $329.189K
 * **Cut Cooldown:** 2m 5s
@@ -532,7 +532,7 @@ Users have a sapling box that is used to plant any tree. Sapling can be bought w
 
 ## Golden Jubilee Peach
 
-* **Fun Fact**: This peach tree has chill hour requirements of 800-850 hours (below 45°F (7°C)) in the winter for their buds to open in the spring.
+* **Fun Fact**: This peach tree has chill hour requirements of 800-850 hours \(below 45°F \(7°C\)\) in the winter for their buds to open in the spring.
 * **Planting Region:** North America
 * **Farm Cost:** $14.331M
 * **Cut Cooldown:** 4m 39s
@@ -1073,3 +1073,4 @@ Users have a sapling box that is used to plant any tree. Sapling can be bought w
 ### Disclaimer
 
 All of these tree names, regions, and facts are from [**OneTreePlanted**](https://onetreeplanted.org/pages/tree-species). The Tree Farmer development team came up with the farm cost and log value separately.
+

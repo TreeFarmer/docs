@@ -49,3 +49,4 @@ Run the `/storage` command to view information about all of your storages. You c
 
 * **Cost:** $212.239M
 * **Capacity:** 48.217K logs
+

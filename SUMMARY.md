@@ -7,6 +7,7 @@
 * [Getting Started](info/start.md)
 * [Commands](info/commands.md)
 * [Cutters](info/cutters.md)
+* [Gifts](info/gifts.md)
 * [Plots](info/plots.md)
 * [Storages](info/storages.md)
 * [Trees](info/trees.md)

@@ -58,3 +58,4 @@ Run the `/deliver` command and click confirm to make all available deliverers de
 * **Cooldown**: 2m 39s
 * **Cost:** $14.536M
 * **Capacity:** 102.942K logs
+

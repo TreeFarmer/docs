@@ -16,24 +16,15 @@ Tree Farmer is currently in **public beta** and cannot be invited to your server
 
 ## Quick Links
 
-{% content-ref url="info/start.md" %}
-[start.md](info/start.md)
-{% endcontent-ref %}
+{% page-ref page="info/start.md" %}
 
-{% content-ref url="info/commands.md" %}
-[commands.md](info/commands.md)
-{% endcontent-ref %}
+{% page-ref page="info/commands.md" %}
 
-{% content-ref url="other/shop.md" %}
-[shop.md](other/shop.md)
-{% endcontent-ref %}
+{% page-ref page="other/shop.md" %}
 
-{% content-ref url="other/team.md" %}
-[team.md](other/team.md)
-{% endcontent-ref %}
+{% page-ref page="other/team.md" %}
 
-{% content-ref url="other/terms.md" %}
-[terms.md](other/terms.md)
-{% endcontent-ref %}
+{% page-ref page="other/terms.md" %}
 
 ![](.gitbook/assets/treefarmer.png)
+

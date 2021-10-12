@@ -57,3 +57,4 @@ Run the `/cut` command and click confirm to make all available cutters each cut 
 * **Cooldown**: 2m 39s
 * **Cost:** $9.304M
 * **Efficiency:** 80% - 90%
+
