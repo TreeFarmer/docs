@@ -4,14 +4,28 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## October 8
+
+**New**
+
+* Gifts now have an endpoints on the API
+* Gifts also reward logs
+* Farms can be named for **$10,000** per rename with /farm \[name]
+
+**Changes**
+
+* Adjusted some gift rewards
+* Messages no longer delete after a few minutes
+* Improved some messages
+
 ## October 2
 
 **New**
 
-* Home website: [**treefarmer.xyz**](https://treefarmer.xyz)\*\*\*\*
+* Home website: [**treefarmer.xyz**](https://treefarmer.xyz)****
 * Released a small package that Tree Farmer uses: [**embed-table**](https://www.npmjs.com/package/embed-table)
 * Gifts to reward users `/gift`
-* Remote database \(MariaDB in place of SQLite\)
+* Remote database (MariaDB in place of SQLite)
 
 **Changes**
 
@@ -37,7 +51,7 @@ description: A history of all changes made to any part of Tree Farmer.
 
 * Farms can now be upgraded with `/upgrade farm` or selecting in the drop down menu
 * View interesting information of your tree with `/tree`
-* Sponsor hosting company \([**something.host**](https://something.host/en?fpr=fyrlex68)\) in `/info` 
+* Sponsor hosting company ([**something.host**](https://something.host/en?fpr=fyrlex68)) in `/info` 
 
 **Changes**
 
@@ -149,7 +163,7 @@ description: A history of all changes made to any part of Tree Farmer.
 **New**
 
 * Setting up Button Interactions for various commands
-* Tree prices and log values specified \([**Trees**](../info/trees.md)\)
+* Tree prices and log values specified ([**Trees**](broken-reference))
 * API endpoint created but will not be up until further notice
 
 **Changes**
@@ -202,6 +216,3 @@ description: A history of all changes made to any part of Tree Farmer.
 * Wrote down the 106 different trees from [https://onetreeplanted.org/pages/tree-species](https://onetreeplanted.org/pages/tree-species)
 * Developed a flow of the parts of a farm
   * plots, vehicles, cutters, storage, trees
-
-
-
