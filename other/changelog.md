@@ -4,7 +4,20 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
-## October 8
+## October 16
+
+**New**
+
+* User Farm endpoint
+* Plot data now stored (previously only in cache)
+
+**Changes**
+
+* Improved developer API
+* Improved command and event handlers
+* Buttons older than 5 minutes cannot be used
+
+## October 9
 
 **New**
 
