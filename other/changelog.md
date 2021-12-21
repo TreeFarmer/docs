@@ -4,6 +4,24 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## November 23
+
+**New**
+
+* Fastify instead of ExpressJS (faster API)
+* Orchards (not yet)
+
+**Changes**
+
+* Lowered costs for trees
+* Locked all trees above level 10
+* Gifts are now daily and offer better gifts
+* `/open` to open gifts
+* `/gift` is now `/gifts`
+* Organized a lot of code structure
+* New and improved typings
+* Speed improvements and bug fixes
+
 ## October 16
 
 **New**
