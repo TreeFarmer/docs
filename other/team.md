@@ -1,7 +1,5 @@
 ---
-description: >-
-  Tree Farmer is an affiliate of BreMea Development, a game development
-  community.
+description: Tree Farmer is a product of BreMea Development, a game development community.
 ---
 
 # Team & Community
@@ -10,7 +8,7 @@ description: >-
 
 We're an international group of creative people. Comprised of members all over the world, we specialize in web and game development, as well as management of online systems.
 
-### [**bremea.com/discord**](https://bremea.com/discord)
+### [**bremea.dev**](https://breme.dev)****
 
 {% embed url="https://bremea.com/about" %}
 
@@ -18,7 +16,7 @@ We're an international group of creative people. Comprised of members all over t
 
 The Tree Farmer community server is the home of the entire game and team. Join to keep up with updates and meet new people.
 
-### [**treefarmer.xyz/discord**](https://treefarmer.xyz/discord)
+### [**treefarmer.xyz/discord**](https://treefarmer.xyz/discord)****
 
 {% embed url="https://treefarmer.xyz/" %}
 
