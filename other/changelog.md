@@ -4,7 +4,21 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
-## November 23
+## January 15
+
+**New**
+
+* Published on [**Statcord**](https://statcord.com/bot/772935872646610994)****
+* Approved on [**Discord Bot Labs**](https://bots.discordlabs.org/bot/772935872646610994)****
+* Tree Farmer now under [**Luyx Development**](https://luyx.dev)
+
+**Changes**
+
+* Overall huge improvements to codebase, more efficient
+* Removed command/guild logging
+* Fixed bugs with `/daily` command
+
+## November 23 - 2021
 
 **New**
 
@@ -22,7 +36,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * New and improved typings
 * Speed improvements and bug fixes
 
-## October 16
+## October 16 - 2021
 
 **New**
 
@@ -35,7 +49,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Improved command and event handlers
 * Buttons older than 5 minutes cannot be used
 
-## October 9
+## October 9 - 2021
 
 **New**
 
@@ -49,7 +63,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Messages no longer delete after a few minutes
 * Improved some messages
 
-## October 2
+## October 2 - 2021
 
 **New**
 
@@ -64,7 +78,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Fixed some formatting in various menus
 * Major improvements across the entire bot
 
-## September 2
+## September 2 - 2021
 
 **New**
 
@@ -76,7 +90,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Fixed an issue with upgrading farms and the user's tree
 * Golden Trees are now given upon upgrading a farm
 
-## August 28
+## August 28 - 2021
 
 **New**
 
@@ -91,7 +105,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Improved a lot of the code structure and organized the code
 * Fixed accuracy of messages in buy/upgrade menus
 
-## August 25
+## August 25 - 2021
 
 **Changes**
 
@@ -100,7 +114,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Improved managers for cutting, delivering and storing
 * Improved design of some menus
 
-## August 24
+## August 24 - 2021
 
 **New**
 
@@ -115,7 +129,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * General improvements to the structure and managers of the bot
 * Removed knowledge data except for the command
 
-## August 23
+## August 23 - 2021
 
 **New**
 
@@ -134,7 +148,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Improved preventing buying more things when at the max
 * Fixed issues with upgrading things
 
-## August 22
+## August 22 - 2021
 
 **New**
 
@@ -149,7 +163,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Changed some grammar and text in various command descriptions and messages
 * Fixed other small issues that prevented messages from sending
 
-## August 5
+## August 5 - 2021
 
 **New**
 
@@ -161,7 +175,7 @@ description: A history of all changes made to any part of Tree Farmer.
 
 * Improving startup time by merging some data files and modifying some functions
 
-## July 31
+## July 31 - 2021
 
 **New**
 
@@ -173,7 +187,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Removed cents/decimals from all prices and values etc.
 * Renamed some things on the backend
 
-## July 26
+## July 26 - 2021
 
 **New**
 
@@ -189,7 +203,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Cutters also have cooldowns depending on how many cutters were used
 * Prices and rates of Tree Farm components adjusted
 
-## July 20
+## July 20 - 2021
 
 **New**
 
@@ -201,14 +215,14 @@ description: A history of all changes made to any part of Tree Farmer.
 
 * Updated parts of the documentation
 
-## July 17
+## July 17 - 2021
 
 **New**
 
 * Added some new commands for future features
 * Improvements and small fixes to the structure
 
-## July 15
+## July 15 - 2021
 
 **New**
 
@@ -218,20 +232,20 @@ description: A history of all changes made to any part of Tree Farmer.
 
 * Reworking parts of the database
 
-## July 14
+## July 14 - 2021
 
 **Changes**
 
 * Improving loading commands and events
 
-## July 10
+## July 10 - 2021
 
 **New**
 
 * GitBook documentation
 * Continue working on structure of the game
 
-## July 9
+## July 9 - 2021
 
 **New**
 
@@ -239,7 +253,7 @@ description: A history of all changes made to any part of Tree Farmer.
 * Tidied up code
 * Begin working on commands
 
-## July 8
+## July 8 - 2021
 
 **New**
 
