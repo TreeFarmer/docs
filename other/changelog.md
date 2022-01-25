@@ -4,6 +4,17 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## January 25
+
+**New**
+
+* User API is now down, shop will also be down
+
+**Changes**
+
+* Fixed issues with buying/upgrading menus
+* Fixed issues with gift commands
+
 ## January 15
 
 **New**
