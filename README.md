@@ -14,6 +14,10 @@ Tree Farmer is a [**Luyx Development**](https://luyx.dev) product, more specific
 Tree Farmer is now **public** and can be [**invited**](https://treefarmer.xyz/invite) to your server. Feel free to join the [**Community Server**](https://treefarmer.xyz/discord) for updates and friendly people.
 {% endhint %}
 
+{% hint style="warning" %}
+Tree Farmer is still in need of balancing of prices and other "game data"  such as cooldowns, numbers etc. **Interesting in helping out?** Contact us in the [**Community Server**](https://treefarmer.xyz/discord).
+{% endhint %}
+
 ## Quick Links
 
 {% content-ref url="info/start.md" %}
