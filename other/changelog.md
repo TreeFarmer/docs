@@ -4,6 +4,22 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## February 7
+
+**New**
+
+* Leaderboards for various statistics `/leaderboard`
+
+**Changes**
+
+* Significantly improved efficiency of code
+
+## February 2
+
+**Changes**
+
+* Significantly reduced growth times for Trees and prices. This balance was aimed to make the game feel faster at the start than previously.
+
 ## January 25
 
 **New**
