@@ -4,6 +4,18 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## April 15
+
+**New**
+
+* Voting on bot listings sites rewards a `large` gift
+* Added Tree Farmer to [**DiscordLabs**](https://bots.discordlabs.org) and [**Top.GG**](https://top.gg/bot/772935872646610994)****
+* User API and [**Shop**](https://shop.treefarmer.xyz) are back online
+
+**Changes**
+
+* Fixed some typos in messages
+
 ## February 7
 
 **New**
