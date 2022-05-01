@@ -4,6 +4,21 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## April 30
+
+**New**
+
+* Users are now created upon running any command
+* Tree Farmer has been verified on Discord
+
+**Changes**
+
+* Fixed negative and infinite gifts
+* Fixed claim button on `/open`
+* Improved API return statements and some endpoints
+* Improved leaderboard menu
+* Improve Database update methods
+
 ## April 15
 
 **New**
