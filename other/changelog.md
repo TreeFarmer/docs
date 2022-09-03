@@ -4,6 +4,14 @@ description: A history of all changes made to any part of Tree Farmer.
 
 # Changelog
 
+## August 26
+
+**Changes**
+
+* Improved API functionality
+* Updated TS and Node.js to latest
+* Updated to latest [**Discord.js**](https://discord.js.org/) version (v14)
+
 ## April 30
 
 **New**
@@ -24,8 +32,8 @@ description: A history of all changes made to any part of Tree Farmer.
 **New**
 
 * Voting on bot listings sites rewards a `large` gift
-* Added Tree Farmer to [**DiscordLabs**](https://bots.discordlabs.org) and [**Top.GG**](https://top.gg/bot/772935872646610994)****
-* User API and [**Shop**](https://shop.treefarmer.xyz) are back online
+* Added Tree Farmer to [**DiscordLabs**](https://bots.discordlabs.org/) and [**Top.GG**](https://top.gg/bot/772935872646610994)****
+* User API and [**Shop**](https://shop.treefarmer.xyz/) are back online
 
 **Changes**
 
@@ -64,7 +72,7 @@ description: A history of all changes made to any part of Tree Farmer.
 
 * Published on [**Statcord**](https://statcord.com/bot/772935872646610994)****
 * Approved on [**Discord Bot Labs**](https://bots.discordlabs.org/bot/772935872646610994)****
-* Tree Farmer now under [**Luyx Development**](https://luyx.dev)
+* Tree Farmer now under [**Luyx Development**](https://luyx.dev/)
 
 **Changes**
 
